@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, das ist eine Repository über mich
+## Ich studiere Informatik und leider habe ich bisher nur Java gelernt in der Uni. Module, in denen mal Python oder HTML drankamen, waren nicht sonderlich gut strukturiert.
+## Deshalb teste ich mich hier ein wenig mit den Sprachen. Also konkret habe ich gerade Fedora auf meinem Unilaptop installiert und taste mich an die Befehle im Terminal ran.
+## Zudem versuche ich selber die ein oder andere Sprache zu lernen. Ich mache hoffentlich demnächst ein Softwareprojekt mit einem Team aus 9 anderen Leuten und wir entwickeln
+## ein Spiel mit Unreal Engine 5. Natürlich mit Unterstützung von Professoren.
